@@ -20,7 +20,7 @@ This project was created to demonstrate a simple yet effective design for restau
 
 ## Live Demo
 
-Check out the live demo of the website here: (https://your-website-link.com)  
+Check out the live demo of the website here: (https://github.com/Javith06/Reestar-project.git) 
 
 
 ## Future Enhancements
